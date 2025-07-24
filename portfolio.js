@@ -170,8 +170,6 @@ document.querySelector('.next').addEventListener('click',()=>{
 })
 
 
-localstorage.clear();
-
 design();
 showItems(file);
 
